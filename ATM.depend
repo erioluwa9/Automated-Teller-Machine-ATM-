@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664618761 source:c:\users\adeola\onedrive - loughborough university\desktop\atm\main.cpp
+	<iostream>
+	"Customer.h"
+
+1664619169 c:\users\adeola\onedrive - loughborough university\desktop\atm\customer.h
+
+1664618656 source:c:\users\adeola\onedrive - loughborough university\desktop\atm\customer.cpp
+	"Customer.h"
+	<iostream>
+
